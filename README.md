@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Amasha</h1>
 - 🌱 I’m currently learning java
 
-- 💬 Ask me about **mysql**
+- 💬 Ask me about **mysql,html,css,java**
 
 - 📫 How to reach me **sithminiamasha@gmail.com**
 
